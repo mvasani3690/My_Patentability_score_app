@@ -1,1 +1,0 @@
-# My_Patentability_score_app
