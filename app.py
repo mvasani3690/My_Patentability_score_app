@@ -82,6 +82,8 @@ def get_text_data(filing_number):
 
 
 # Streamlit app
+
+st.markdown("Link to app - [Patentabiity app](https://huggingface.co/spaces/mvasani/Patentatbility_score_app)")
 def main():
     st.title("Patentability Score App")
     
